@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://aperevolutionzone.com'],
+    'allowed_origins' => ['https://aperevolutionzone.com', 'https://www.aperevolutionzone.com'],
 
     'allowed_origins_patterns' => [],
 
